@@ -1,3 +1,3 @@
 # BICPie
 
-##EDOC 2팀!!
+# EDOC 2팀!!
